@@ -1,6 +1,8 @@
 {
     "_static": {
-        "generator": "@from-static/generator-hello-world"
+        "generator": {
+            "name": "@from-static/generator-hello-world"
+        }
     },
     "data": {
         "attributes": {
