@@ -1,0 +1,10 @@
+{
+    "_static": {
+        "generator": "@from-static/generator-hello-world"
+    },
+    "data": {
+        "attributes": {
+            "message": "Hello, @from-static!"
+        }
+    }
+}
